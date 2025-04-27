@@ -1,82 +1,66 @@
 [
   {
-    "isim": "Muz",
-    "kalori": "77 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 23 gram",
-    "protein": "Protein: 1.1 gram",
-    "yag": "Yag: 0.3 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+    "isim": "JavaScript",
+    "kalori": "Back-end",
+    "karbonhidrat": "Web Geliştirme, Masaüstü Uygulama, Mobil Uygulama",
+    "protein": "React, Node.js, Vue.js",
+    "yag": "1995, Brendan Eich",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/js.png?raw=true"
   },
   {
-    "isim": "Yulaf",
-    "kalori": "351 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 57.3 gram",
-    "protein": "Protein: 11.3 gram",
-    "yag": "Yag: 5.8 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
+    "isim": "TypeScript",
+    "kalori": "Back-end, Front-end",
+    "karbonhidrat": "Web Geliştirme, Mobil Uygulama",
+    "protein": "Angular, NestJS",
+    "yag": "2012, Microsoft",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/ts.png?raw=true"
   },
   {
-    "isim": "Ceviz",
-    "kalori": "654 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 13.7 gram",
-    "protein": "Protein: 15.2 gram",
-    "yag": "Yag: 65.2 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/ceviz.png"
+    "isim": "Python",
+    "kalori": "Back-end, Veri Bilimi",
+    "karbonhidrat": "Web Geliştirme, Yapay Zeka, Veri Analizi",
+    "protein": "Django, Flask, TensorFlow",
+    "yag": "1991, Guido van Rossum",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/py.png?raw=true"
   },
   {
-    "isim": "Kuru Fasulye",
-    "kalori": "155 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 22 gram",
-    "protein": "Protein: 19 gram",
-    "yag": "Yag: 6 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/kurufasulye.png"
+    "isim": "HTML",
+    "kalori": "Front-end",
+    "karbonhidrat": "Web Sayfası Tasarımı",
+    "protein": "HTML5, SEO Uyumlu Yapılar",
+    "yag": "1993, Tim Berners-Lee",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/html.png?raw=true"
   },
   {
-    "isim": "Patates",
-    "kalori": "77 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 17 gram",
-    "protein": "Protein: 2 gram",
-    "yag": "Yag: 0.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/patates.png"
+    "isim": "CSS",
+    "kalori": "Front-end",
+    "karbonhidrat": "Web Tasarım ve Stil Yönetimi",
+    "protein": "Bootstrap, Tailwind CSS",
+    "yag": "1996, Håkon Wium Lie",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/css.png?raw=true"
   },
   {
-    "isim": "Tavuk Göğüs",
-    "kalori": "120 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 0 gram",
-    "protein": "Protein: 22.5 gram",
-    "yag": "Yag: 2.6 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/tavukgogus.png"
+    "isim": "PHP",
+    "kalori": "Back-end",
+    "karbonhidrat": "Web Geliştirme",
+    "protein": "Laravel, Symfony",
+    "yag": "1995, Rasmus Lerdorf",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/php.png?raw=true"
   },
   {
-    "isim": "Yeşil Mercimek",
-    "kalori": "116 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 20 gram",
-    "protein": "Protein: 9 gram",
-    "yag": "Yag: 0.4 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yesilmercimek.png"
+    "isim": "Kotlin",
+    "kalori": "Back-end, Mobil Geliştirme",
+    "karbonhidrat": "Android Uygulama Geliştirme",
+    "protein": "Ktor, Jetpack Compose",
+    "yag": "2011, JetBrains",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/kotlin.png?raw=true"
   },
   {
-    "isim": "Yoğurt",
-    "kalori": "57 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 4.5 gram",
-    "protein": "Protein: 3 gram",
-    "yag": "Yag: 3 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yogurt.png"
-  },
-  {
-    "isim": "Badem",
-    "kalori": "570 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 3.7 gram",
-    "protein": "Protein: 18.7 gram",
-    "yag": "Yag: 54.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/badem.png"
-  },
-  {
-    "isim": "Elma",
-    "kalori": "47 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 12.4 gram",
-    "protein": "Protein: 0.2 gram",
-    "yag": "Yag: 0.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/elma.png"
+    "isim": "C#",
+    "kalori": "Back-end, Oyun Geliştirme",
+    "karbonhidrat": "Masaüstü, Web, Mobil ve Oyun Uygulamaları",
+    "protein": "ASP.NET, Unity",
+    "yag": "2000, Microsoft",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/csharp.png?raw=true"
   }
 ]
