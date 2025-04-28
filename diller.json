@@ -1,7 +1,7 @@
 [
   {
     "isim": "JavaScript",
-    "kalori": "Kullanım Tarafı: Front-end ve Back-end",
+    "kalori": "Front-end ve Back-end",
     "karbonhidrat": "Kullanılma Alanları: Web Geliştirme, Masaüstü Uygulama, Mobil Uygulama",
     "protein": "Frameworkler: React.js, Node.js, Vue.js",
     "yag": "Kuruluş Yılı & Kurucusu: 1995, Brendan Eich",
@@ -9,7 +9,7 @@
   },
   {
     "isim": "TypeScript",
-    "kalori": "Kullanım Tarafı: Front-end ve Back-end",
+    "kalori": "Front-end ve Back-end",
     "karbonhidrat": "Kullanılma Alanları: Web Geliştirme, Mobil Uygulama",
     "protein": "Frameworkler: Angular, NestJS",
     "yag": "Kuruluş Yılı & Kurucusu: 2012, Microsoft",
@@ -17,7 +17,7 @@
   },
   {
     "isim": "Python",
-    "kalori": "Kullanım Tarafı: Back-end",
+    "kalori": "Back-end",
     "karbonhidrat": "Kullanılma Alanları: Web Geliştirme, Yapay Zeka, Veri Analizi",
     "protein": "Frameworkler: Django, Flask, TensorFlow",
     "yag": "Kuruluş Yılı & Kurucusu: 1991, Guido van Rossum",
@@ -25,7 +25,7 @@
   },
   {
     "isim": "HTML",
-    "kalori": "Kullanım Tarafı: Front-end",
+    "kalori": "Front-end",
     "karbonhidrat": "Kullanılma Alanları: Web Sayfası Tasarımı",
     "protein": "Frameworkler: HTML5, SEO Uyumlu Yapılar",
     "yag": "Kuruluş Yılı & Kurucusu: 1993, Tim Berners-Lee",
@@ -33,7 +33,7 @@
   },
   {
     "isim": "CSS",
-    "kalori": "Kullanım Tarafı: Front-end",
+    "kalori": "Front-end",
     "karbonhidrat": "Kullanılma Alanları: Web Tasarım ve Stil Yönetimi",
     "protein": "Frameworkler: Bootstrap, Tailwind CSS",
     "yag": "Kuruluş Yılı & Kurucusu: 1996, Håkon Wium Lie",
@@ -41,7 +41,7 @@
   },
   {
     "isim": "PHP",
-    "kalori": "Kullanım Tarafı: Back-end",
+    "kalori": "Back-end",
     "karbonhidrat": "Kullanılma Alanları: Web Geliştirme",
     "protein": "Frameworkler: Laravel, Symfony",
     "yag": "Kuruluş Yılı & Kurucusu: 1995, Rasmus Lerdorf",
@@ -49,7 +49,7 @@
   },
   {
     "isim": "Kotlin",
-    "kalori": "Kullanım Tarafı: Back-end ve Mobil",
+    "kalori": "Back-end ve Mobil",
     "karbonhidrat": "Kullanılma Alanları: Android Uygulama Geliştirme",
     "protein": "Frameworkler: Ktor, Jetpack Compose",
     "yag": "Kuruluş Yılı & Kurucusu: 2011, JetBrains",
@@ -57,7 +57,7 @@
   },
   {
     "isim": "C#",
-    "kalori": "Kullanım Tarafı: Back-end ve Oyun Geliştirme",
+    "kalori": "Back-end ve Oyun Geliştirme",
     "karbonhidrat": "Kullanılma Alanları: Masaüstü, Web, Mobil ve Oyun Uygulamaları",
     "protein": "Frameworkler: ASP.NET, Unity",
     "yag": "Kuruluş Yılı & Kurucusu: 2000, Microsoft",
